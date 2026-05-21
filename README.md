@@ -33,7 +33,7 @@ print("Server > ",s.recv(1024).decode())
 ```
 ## OUTPUT
 ## Client.py:
-<img width="815" height="948" alt="Screenshot 2026-05-21 144315" src="https://github.com/user-attachments/assets/21bd7e40-6a66-46e0-8ca7-7998d894057b" />
+<img width="482" height="262" alt="image" src="https://github.com/user-attachments/assets/67c1d082-a46b-4a5c-86e8-c3479f25ab7e" />
 
 <img width="578" height="190" alt="Screenshot 2026-05-21 193016" src="https://github.com/user-attachments/assets/43c9d65d-2e51-47af-9d8d-cc74bb78fd47" />
 
